@@ -198,7 +198,7 @@ The app opens at `http://localhost:8501`.
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 This project started from Thomas Janssen's [Local RAG with Ollama](https://github.com/ThomasJanssen-tech/Local-RAG-with-Ollama) tutorial and was extended with a custom data pipeline, hybrid retrieval and confidence scoring, a Gemini backend, answer modes, and logging.
 
@@ -211,7 +211,7 @@ Further reading:
 
 ---
 
-## 👤 Author
+## Author
 
 **Hussein** — AI Engineer (M.Eng. in Artificial Intelligence, Saint Joseph University of Beirut)
 
